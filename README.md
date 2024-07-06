@@ -36,6 +36,7 @@ Explanation:
 - Amazon Route 53 used for DNS services
 - Amazon Cloudfront used for edge caching
 - Elastic Load balancer used to spread load across availability zones
+- Amazon EC2 instances used for web and app servers
 - Amazon RDS used for relational databases (MySQL/PostgreSQL)
 - Amazon DocumentDB used for MongoDB (NoSQL data)
 - Amazon S3 used for static storage and backup
