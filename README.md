@@ -32,3 +32,10 @@ Diagram:
 ![AWS - Scenario 1](https://github.com/njlatonio/aws-diagram-ecommerce/assets/168039404/55158008-1278-4c70-b7f9-1a566b0a482c)
 
 Explanation:
+3 regions used to ensure 99.999% availability and to be fault tolerant
+- Amazon Route 53 used for DNS services
+- Amazon Cloudfront used for edge caching
+- Elastic Load balancer used to spread load across availability zones
+- Amazon RDS used for relational databases (MySQL/PostgreSQL)
+- Amazon DocumentDB used for MongoDB (NoSQL data)
+- Amazon S3 used for static storage and backup
