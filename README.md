@@ -3,6 +3,7 @@
 **********
 Task:
 Scenario 1: E-commerce Website
+
 Architecture:
 1. Presentation Tier (Frontend):
   - Components:Web browser, Mobile app.
